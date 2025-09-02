@@ -15,8 +15,9 @@ Sufail<br>Software Engineer | AI Enthusiast<br><br>I’m a Full-Stack Developer 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SufailSLX&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍ Quote
+Failure is an option here. If things are not failing, you are not innovating enough.
+-Elon Musk
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SufailSLX&icon=0&color=0)](https://visitcount.itsvg.in)
