@@ -1,4 +1,4 @@
-# 💫 About Me: sufail.vercel.app
+# 💫 About Me: https://sufail.vercel.app/
 Sufail<br>Software Engineer | AI Enthusiast<br><br>I’m a Full-Stack Developer with a deep passion for building scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). With hands-on experience in crafting both responsive front-end UIs and robust back-end services, I specialize in TypeScript, React.js, and Node.js.<br><br>I’m driven by a passion for clean, type-safe code and enjoy integrating AI-driven features into applications. Currently, I’m exploring serverless computing, edge computing, cloud-native APIs, and adaptive UIs to create modern, intelligent, and highly efficient applications.
 
 
