@@ -2,7 +2,6 @@
 Sufail </br>
 🌐 Software Engineer | AI Systems Architect
 
-
 I don’t just build applications —
 I engineer systems that evolve, scale, and think.
 
