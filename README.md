@@ -19,7 +19,6 @@ My mission is simple:
 to create software that feels alive — responsive, predictive, and built for the future,
 not just the present.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sufail.ai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/slx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/slx.DEV) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sufailxd@gmail.com) 
 
