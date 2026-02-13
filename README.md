@@ -36,10 +36,29 @@ not just the present.
 Failure is an option here. If things are not failing, you are not innovating enough.
 -Elon Musk
 ---
-[![](https://visitcount.itsvg.in/api?id=SufailSLX&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<picture>
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture> -->
+
+<style>
+.pacman-anim img {
+  animation: glow 2s ease-in-out infinite;
+}
+
+@keyframes glow {
+  0% { filter: drop-shadow(0 0 0px yellow); }
+  50% { filter: drop-shadow(0 0 8px yellow); }
+  100% { filter: drop-shadow(0 0 0px yellow); }
+}
+</style>
+
+<picture class="pacman-anim">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+
