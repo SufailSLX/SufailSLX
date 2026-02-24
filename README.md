@@ -1,6 +1,6 @@
 # 💫 About Me: https://sufail.vercel.app/
 
-🌐 Software Engineer | AI Systems Architect
+🌐 Software Engineer | AI Systems Architect.
 
 I don’t just build applications —
 I engineer systems that evolve, scale, and think.
